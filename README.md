@@ -10,7 +10,7 @@ This is an **End-to-End Machine Learning** project designed to predict a student
 
 The project follows **Modular Coding Standards**, making it scalable, maintainable, and production-ready.
 
-🔗 **Live Demo:** [Insert your Streamlit Cloud URL here]
+🔗 **Live Demo:** [https://mlproject-xhhctxpfmxsv2bhctexp7g.streamlit.app/]
 
 ---
 
