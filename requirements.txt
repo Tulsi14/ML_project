@@ -1,9 +1,9 @@
 pandas
 numpy
 seaborn
-streamlit
+streamlit==1.56.0
 matplotlib
-scikit-learn
+scikit-learn==1.2.2
 xgboost
 catboost
 dill
